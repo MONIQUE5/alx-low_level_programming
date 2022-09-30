@@ -11,4 +11,7 @@ int factorial(int n);
 int _pow_recursion(int x, int y);
 int _sqrt_recursion(int n);
 int find_sqrt(int num, int root);
+int is_palindrome(char *s);
+int find_strlen(char *s);
+int check_palindrome(char *s, int len, int index);
 #endif
